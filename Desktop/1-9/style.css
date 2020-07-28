@@ -17,7 +17,7 @@ main{
 	margin:50px auto;
     width:960px;
 }
-.box{
+.step-box{
 	float:left;
 	margin-right: 30px;
 	background-color: #EEEEEE;
@@ -51,7 +51,7 @@ main{
 	padding: 3px;
 	color:#fff;
 }
-.box:last-child{
+.step-box:last-child{
 	margin-right: 0;
 }
 .title{
